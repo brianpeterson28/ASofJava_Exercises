@@ -1,9 +1,7 @@
 /*
- * File: BlankClass.java
+ * File: AverageList.java
  * ---------------------
- * This class is a blank one that you can change at will. Remember, if you change
- * the class name, you'll need to change the filename so that it matches.
- * Then you can extend GraphicsProgram, ConsoleProgram, or DialogProgram as you like.
+ * This program calculates the average of a list of numbers. 
  */
 
 import acm.program.*;
